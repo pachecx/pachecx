@@ -34,4 +34,4 @@ Worked on web and mobile applications using **Angular, Ionic and TypeScript**, i
 
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/matheus-pacheco-cruz/) • [Upwork](COLOQUE-SEU-LINK-AQUI)
+[LinkedIn](https://www.linkedin.com/in/matheus-pacheco-cruz/) • [Upwork]([COLOQUE-SEU-LINK-AQUI](https://www.upwork.com/freelancers/~010597674da7ad3d9e?viewMode=1)
